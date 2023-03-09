@@ -1,0 +1,12 @@
+{
+    "projectName": "Kalkulationsbogen",
+    "languages": [{
+        "id": "kalkulationsbogen",
+        "grammar": "src/language-server/kalkulationsbogen.langium",
+        "fileExtensions": [".kb"],
+        "textMate": {
+            "out": "syntaxes/kalkulationsbogen.tmLanguage.json"
+        }
+    }],
+    "out": "src/language-server/generated"
+}
