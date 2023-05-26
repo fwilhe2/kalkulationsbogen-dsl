@@ -55,7 +55,7 @@
         "@types/node": "~16.18.33",
         "@types/vscode": "~1.78.1",
         "@typescript-eslint/eslint-plugin": "~5.59.7",
-        "@typescript-eslint/parser": "~5.59.6",
+        "@typescript-eslint/parser": "~5.59.7",
         "eslint": "~8.41.0",
         "langium-cli": "~1.2.0",
         "typescript": "~5.0.4"
