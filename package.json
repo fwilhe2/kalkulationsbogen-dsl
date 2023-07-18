@@ -43,7 +43,7 @@
         "langium:watch": "langium generate --watch"
     },
     "dependencies": {
-        "chevrotain": "~11.0.0",
+        "chevrotain": "~11.0.1",
         "chalk": "~5.3.0",
         "commander": "~11.0.0",
         "langium": "~1.2.1",
