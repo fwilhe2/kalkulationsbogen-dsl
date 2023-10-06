@@ -49,7 +49,7 @@
         "langium": "~2.0.2",
         "vscode-languageclient": "~9.0.1",
         "vscode-languageserver": "~9.0.1",
-        "vscode-uri": "~3.0.7"
+        "vscode-uri": "~3.0.8"
     },
     "devDependencies": {
         "@types/node": "~16.18.55",
